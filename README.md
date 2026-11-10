@@ -1,0 +1,1 @@
+# Spectral-Spatial-Ensemble-Learning-with-Gate-Fusion-for-Multispectral-Leaf-Disease-Detection
